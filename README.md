@@ -15,3 +15,5 @@ git add nombre-archivo
 6. Realizar un commit
 7. Subir tus cambios a tu repositorio remoto
 8. Realizar una pull-request
+
+OK
