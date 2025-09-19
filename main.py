@@ -2,9 +2,8 @@ from clases.avanzadas import Calculadora
 
 def main():
     calculadora = Calculadora()
-    calculadora.leerNumeros()
     calculadora.elevarPotencia()
-    calculadora.mostrarResultado()
+    calculadora.calcularRaizCuadrada()
     
 if __name__ == "__main__":
     main()
